@@ -1,0 +1,3 @@
+[submodule "luci-app-bandwidthd"]
+	path = luci-app-bandwidthd
+	url = https://github.com/AlexZhuo/luci-app-bandwidthd.git
